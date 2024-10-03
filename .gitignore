@@ -1,5 +1,9 @@
 **/.settings/**
 **/target/**
+**/.metadata/**
+**/Reports/**
+**/Screenshots/**
+**/log4j2/**
 **/test-output/**
 .classpath
 .project
